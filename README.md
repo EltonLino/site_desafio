@@ -4,7 +4,7 @@ Bem-vindo ao repositório do **Site Desafio**! Este projeto é um desafio de des
 
 ## 📝 Sobre o Projeto
 
-Este projeto foi desenvolvido como parte de um desafio prático de programação para aprimorar habilidades em **HTML5** e **CSS3**. O objetivo principal é [Insira aqui o objetivo principal do desafio, ex: criar uma landing page responsiva, reproduzir um layout específico, etc.].
+Este projeto foi desenvolvido como parte de um desafio prático de programação para aprimorar habilidades em **HTML5** e **CSS3**. O objetivo principal é criar uma landing page responsiva, utilizar diversas formas do formatação, tabelas, links e imagens.
 
 ## 🛠️ Tecnologias Utilizadas
 
